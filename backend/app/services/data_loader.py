@@ -17,7 +17,7 @@ class DataLoader:
             name=settings.CHROMA_COLLECTION_NAME,
             metadata={"hnsw:space": "cosine"}
         )
-        self.embedding_model = SentenceTransformer(settings.EMBEDDING_MODEL)
+        self.embedding_model = None  # Loaded lazily only when DB needs to be built
         self.all_schemes = []
         self._load_all_schemes()
 
@@ -43,10 +43,11 @@ class DataLoader:
         """Populate ChromaDB if it's empty."""
         count = self.collection.count()
         if count > 0:
-            print(f"ChromaDB already initialized with {count} chunks.")
+            print(f"ChromaDB already initialized with {count} chunks. Skipping embedding generation.")
             return
 
-        print("Initializing ChromaDB with scheme data...")
+        print("Initializing ChromaDB — loading embedding model...")
+        self.embedding_model = SentenceTransformer(settings.EMBEDDING_MODEL)
         documents = []
         metadatas = []
         ids = []
