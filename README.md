@@ -26,7 +26,6 @@ An AI-powered Government Scheme Finder for Indian citizens. Discovers welfare sc
    ```bash
    uvicorn app.main:app --reload
    ```
-5. Open `http://localhost:8000` in your browser.
 
 ## 🐳 Docker Setup
 ```bash
@@ -37,8 +36,9 @@ docker-compose up --build
 1. Push this repository to GitHub.
 2. Sign in to [Render.com](https://render.com) and click **New > Web Service**.
 3. Connect your repository. Render will automatically detect the `render.yaml` file.
-4. Set the `GEMINI_API_KEY` environment variable in the Render dashboard.
-5. Deploy!
+
+## Portal is live on
+https://sarkariyojana-ai.onrender.com/
 
 ## 📜 License
 MIT
