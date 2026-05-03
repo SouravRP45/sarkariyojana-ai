@@ -1,0 +1,2858 @@
+{
+  "schemes": [
+    {
+      "id": "state-mh-001",
+      "name": "Mahatma Jyotirao Phule Jan Arogya Yojana (MJPJAY)",
+      "name_hi": "महात्मा ज्योतिराव फुले जन आरोग्य योजना",
+      "ministry": "Public Health Department, Maharashtra",
+      "type": "state",
+      "category": "healthcare",
+      "description": "A health insurance scheme providing free medical care to BPL and APL families in Maharashtra.",
+      "description_hi": "महाराष्ट्र में बीपीएल और एपीएल परिवारों को मुफ्त चिकित्सा देखभाल प्रदान करने वाली एक स्वास्थ्य बीमा योजना।",
+      "benefits": "Free medical care up to ₹1.5 lakh per family per year for 971 types of diseases/surgeries.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": 100000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Maharashtra"
+        ],
+        "land_ownership": null,
+        "bpl": true,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Ration Card (Yellow/Orange/Antyodaya)",
+        "Aadhaar Card",
+        "Disease diagnosis report"
+      ],
+      "application_process": "1. Visit the nearest network hospital.\n2. Show your Ration Card and Aadhaar to the Arogyamitras.\n3. Complete the registration and admit the patient for cashless treatment.",
+      "official_url": "https://www.jeevandayee.gov.in/",
+      "helpline": "155388",
+      "last_updated": "2025-01-15"
+    },
+    {
+      "id": "state-ka-001",
+      "name": "Gruha Lakshmi Scheme",
+      "name_hi": "गृह लक्ष्मी योजना",
+      "ministry": "Women and Child Development, Karnataka",
+      "type": "state",
+      "category": "women",
+      "description": "Financial assistance scheme to support the women head of households in Karnataka.",
+      "description_hi": "कर्नाटक में परिवारों की महिला मुखिया की सहायता के लिए वित्तीय सहायता योजना।",
+      "benefits": "₹2,000 per month transferred directly to the bank account of the woman head of the family.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Karnataka"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar Card",
+        "BPL/APL/Antyodaya Card",
+        "Bank Account Details"
+      ],
+      "application_process": "1. Visit the Seva Sindhu Guarantee portal.\n2. Apply online using Aadhaar and Ration Card details.\n3. Beneficiaries can also apply offline at Grama One/Bapuji Seva Kendra.",
+      "official_url": "https://sevasindhu.karnataka.gov.in",
+      "helpline": "1902",
+      "last_updated": "2025-01-15"
+    },
+    {
+      "id": "state-dl-001",
+      "name": "Mukhyamantri Mahila Samman Yojana",
+      "name_hi": "मुख्यमंत्री महिला सम्मान योजना",
+      "ministry": "Government of NCT of Delhi",
+      "type": "state",
+      "category": "women",
+      "description": "Financial empowerment scheme for women residing in Delhi.",
+      "description_hi": "दिल्ली में रहने वाली महिलाओं के लिए वित्तीय सशक्तिकरण योजना।",
+      "benefits": "Direct cash transfer of ₹1,000 per month to eligible women.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all",
+          "student",
+          "unemployed",
+          "homemaker"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Delhi"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar Card with Delhi address",
+        "Voter ID card (Delhi)",
+        "Self-declaration form",
+        "Bank account details"
+      ],
+      "application_process": "1. Fill the self-declaration form available at designated centers.\n2. Submit online or at government camps.\n3. Fund will be directly credited via DBT.",
+      "official_url": "https://delhi.gov.in",
+      "helpline": "1031",
+      "last_updated": "2025-02-10"
+    },
+    {
+      "id": "state-up-001",
+      "name": "Mukhyamantri Kanya Sumangala Yojana",
+      "name_hi": "मुख्यमंत्री कन्या सुमंगला योजना",
+      "ministry": "Women and Child Development, Uttar Pradesh",
+      "type": "state",
+      "category": "education",
+      "description": "A conditional cash transfer scheme to support the birth and education of girl children in UP.",
+      "description_hi": "यूपी में बालिकाओं के जन्म और शिक्षा का समर्थन करने के लिए एक सशर्त नकद हस्तांतरण योजना।",
+      "benefits": "Total financial assistance of ₹25,000 provided in 6 phases from the birth of the girl child to her graduation.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 25,
+        "gender": "female",
+        "income_limit": 300000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Uttar Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Birth Certificate",
+        "Aadhaar Card",
+        "Income Certificate",
+        "Bank Account Details",
+        "Residence Proof of UP"
+      ],
+      "application_process": "1. Register on the official portal mksy.up.gov.in.\n2. Fill out the application form with required documents.\n3. The application is verified by the district authorities before funds are released.",
+      "official_url": "https://mksy.up.gov.in",
+      "helpline": "181",
+      "last_updated": "2025-01-20"
+    },
+    {
+      "id": "state-wb-001",
+      "name": "Lakshmir Bhandar",
+      "name_hi": "लक्ष्मी भंडार",
+      "ministry": "Department of Women & Child Development, West Bengal",
+      "type": "state",
+      "category": "women",
+      "description": "Basic income support scheme for female heads of families in West Bengal.",
+      "description_hi": "पश्चिम बंगाल में परिवारों की महिला मुखिया के लिए बुनियादी आय सहायता योजना।",
+      "benefits": "₹1000 per month for General category and ₹1200 per month for SC/ST category women.",
+      "eligibility": {
+        "min_age": 25,
+        "max_age": 60,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all",
+          "general",
+          "sc",
+          "st",
+          "obc"
+        ],
+        "states": [
+          "West Bengal"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Swasthya Sathi Card",
+        "Aadhaar Card",
+        "SC/ST Certificate (if applicable)",
+        "Bank Account linked with Aadhaar"
+      ],
+      "application_process": "1. Application forms are available free of cost at Duare Sarkar camps.\n2. Submit the filled form with document copies at the camp.\n3. Receive acknowledgment receipt.",
+      "official_url": "https://socialsecurity.wb.gov.in",
+      "helpline": "1070",
+      "last_updated": "2025-02-01"
+    },
+    {
+      "id": "state-mp-001",
+      "name": "Mukhyamantri Ladli Behna Yojana",
+      "name_hi": "मुख्यमंत्री लाडली बहना योजना",
+      "ministry": "Women and Child Development, Madhya Pradesh",
+      "type": "state",
+      "category": "women",
+      "description": "Scheme to enhance women's economic independence and improve health/nutrition status.",
+      "description_hi": "महिलाओं की आर्थिक स्वतंत्रता बढ़ाने और स्वास्थ्य/पोषण की स्थिति में सुधार करने की योजना।",
+      "benefits": "₹1,250 per month credited directly to Aadhaar-linked bank accounts.",
+      "eligibility": {
+        "min_age": 21,
+        "max_age": 60,
+        "gender": "female",
+        "income_limit": 250000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Madhya Pradesh"
+        ],
+        "land_ownership": false,
+        "bpl": null,
+        "disability": null,
+        "marital_status": [
+          "married",
+          "widowed",
+          "divorced"
+        ]
+      },
+      "documents_required": [
+        "Samagra ID",
+        "Aadhaar Card",
+        "Aadhaar-linked Bank Account (DBT enabled)",
+        "Mobile Number"
+      ],
+      "application_process": "1. Applications are filled out at Gram Panchayat/Ward level camps.\n2. E-KYC is mandatory.\n3. Photograph is taken during the camp application.",
+      "official_url": "https://cmladlibahna.mp.gov.in",
+      "helpline": "0755-2700800",
+      "last_updated": "2025-01-10"
+    },
+    {
+      "id": "state-rj-001",
+      "name": "Chiranjeevi Swasthya Bima Yojana",
+      "name_hi": "चिरंजीवी स्वास्थ्य बीमा योजना",
+      "ministry": "Medical and Health Department, Rajasthan",
+      "type": "state",
+      "category": "healthcare",
+      "description": "Universal health insurance scheme covering almost the entire population of Rajasthan.",
+      "description_hi": "राजस्थान की लगभग पूरी आबादी को कवर करने वाली सार्वभौमिक स्वास्थ्य बीमा योजना।",
+      "benefits": "Cashless health insurance coverage up to ₹25 lakh per family per year.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Rajasthan"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Jan Aadhaar Card",
+        "Aadhaar Card"
+      ],
+      "application_process": "1. Register online on the SSO Rajasthan portal or via E-Mitra.\n2. Link Jan Aadhaar with the policy.\n3. Premium is free for BPL/NFSA/Farmers; others pay ₹850/year.",
+      "official_url": "https://chiranjeevi.rajasthan.gov.in",
+      "helpline": "181",
+      "last_updated": "2025-01-05"
+    },
+    {
+      "id": "state-od-001",
+      "name": "KALIA (Krushak Assistance for Livelihood and Income Augmentation)",
+      "name_hi": "कालिया (आजीविका और आय संवर्धन के लिए कृषक सहायता)",
+      "ministry": "Department of Agriculture and Farmers' Empowerment, Odisha",
+      "type": "state",
+      "category": "agriculture",
+      "description": "A forward-looking scheme to accelerate agricultural prosperity and reduce poverty in Odisha.",
+      "description_hi": "कृषि समृद्धि में तेजी लाने और गरीबी कम करने के लिए एक दूरदर्शी योजना।",
+      "benefits": "Financial assistance of ₹4,000 per year for cultivation (Small/Marginal Farmers). Landless agricultural households get ₹12,500 for livelihood.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Odisha"
+        ],
+        "land_ownership": true,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar Card",
+        "Land Record (RoR)",
+        "Bank Passbook"
+      ],
+      "application_process": "1. Apply online at kalia.odisha.gov.in.\n2. Submit documents for verification at the GP level.\n3. Amount directly credited to bank account.",
+      "official_url": "https://kalia.odisha.gov.in",
+      "helpline": "1800-572-1122",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-as-001",
+      "name": "Orunodoi Scheme",
+      "name_hi": "ओरुनोदोई योजना",
+      "ministry": "Finance Department, Assam",
+      "type": "state",
+      "category": "women",
+      "description": "Aimed at providing financial assistance to poor households in Assam through women empowerment.",
+      "description_hi": "महिला सशक्तिकरण के माध्यम से असम में गरीब परिवारों को वित्तीय सहायता प्रदान करना।",
+      "benefits": "₹1,250 per month credited directly to the bank account of the nominated female head of the household.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "female",
+        "income_limit": 200000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Assam"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar Card",
+        "Ration Card",
+        "Bank Account Details"
+      ],
+      "application_process": "1. Fill the Orunodoi application form at the Gaon Panchayat level.\n2. The District Level Monitoring Committee approves the list.\n3. Funds are transferred via DBT.",
+      "official_url": "https://orunodoi.assam.gov.in",
+      "helpline": "1800-345-3988",
+      "last_updated": "2025-01-22"
+    },
+    {
+      "id": "state-ml-001",
+      "name": "FOCUS Meghalaya",
+      "name_hi": "फोकस मेघालय",
+      "ministry": "Agriculture & Farmers' Welfare, Meghalaya",
+      "type": "state",
+      "category": "agriculture",
+      "description": "Farmers Collectivization for Up-scaling of Production and Marketing Systems.",
+      "description_hi": "उत्पादन और विपणन प्रणालियों के उन्नयन के लिए किसानों का एकत्रीकरण।",
+      "benefits": "Seed capital of ₹5,000 per member of a Producer Group to boost agriculture and allied activities.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Meghalaya"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar / Voter ID",
+        "Producer Group Membership Proof",
+        "Bank Account Details"
+      ],
+      "application_process": "1. Form a Producer Group (PG) with 10-20 members.\n2. Register the PG with the Basin Development Unit.\n3. Receive funds in the PG bank account.",
+      "official_url": "https://mbda.gov.in",
+      "helpline": "1800-345-3644",
+      "last_updated": "2024-12-15"
+    },
+    {
+      "id": "state-tr-001",
+      "name": "Mukhyamantri Yuba Yogayog Yojana",
+      "name_hi": "मुख्यमंत्री युवा योगायोग योजना",
+      "ministry": "Higher Education Department, Tripura",
+      "type": "state",
+      "category": "education",
+      "description": "Scheme to provide grants to final year college/university students for purchasing smartphones.",
+      "description_hi": "अंतिम वर्ष के कॉलेज छात्रों को स्मार्टफोन खरीदने के लिए अनुदान प्रदान करने की योजना।",
+      "benefits": "One-time financial grant of ₹5,000 for purchasing a smartphone.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 30,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Tripura"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar Card",
+        "College Admission Receipt / ID",
+        "Smartphone Purchase Invoice",
+        "Bank Account Details"
+      ],
+      "application_process": "1. Purchase a smartphone and get a valid GST invoice.\n2. Apply online through the BMAS portal of Tripura Government.\n3. Upload the invoice and college details for DBT transfer.",
+      "official_url": "https://bmas.tripura.gov.in",
+      "helpline": "0381-241-2555",
+      "last_updated": "2025-01-10"
+    },
+    {
+      "id": "state-gj-001",
+      "name": "Vahli Dikri Yojana",
+      "name_hi": "वहाली डिकरी योजना",
+      "ministry": "Women and Child Development, Gujarat",
+      "type": "state",
+      "category": "education",
+      "description": "Financial assistance to improve the birth rate of girls and strengthen their socio-economic status.",
+      "description_hi": "लड़कियों की जन्म दर में सुधार और उनकी सामाजिक-आर्थिक स्थिति को मजबूत करने के लिए वित्तीय सहायता।",
+      "benefits": "₹1.10 Lakh given in three installments (at Class 1, Class 9, and at age 18).",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 18,
+        "gender": "female",
+        "income_limit": 200000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Gujarat"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Birth Certificate",
+        "Aadhaar Card",
+        "Income Certificate"
+      ],
+      "application_process": "Apply offline at Anganwadi centers or CDPO offices.",
+      "official_url": "https://wcd.gujarat.gov.in",
+      "helpline": "181",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-bh-001",
+      "name": "Mukhyamantri Kanya Utthan Yojana",
+      "name_hi": "मुख्यमंत्री कन्या उत्थान योजना",
+      "ministry": "Social Welfare Department, Bihar",
+      "type": "state",
+      "category": "education",
+      "description": "Encourages girl education and prevents female infanticide.",
+      "description_hi": "बालिका शिक्षा को प्रोत्साहित करता है और कन्या भ्रूण हत्या को रोकता है।",
+      "benefits": "Around ₹54,100 from birth to graduation, distributed in phases.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 25,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all",
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Bihar"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Bank Account",
+        "Mark sheets"
+      ],
+      "application_process": "Apply online via the E-Kalyan portal.",
+      "official_url": "https://ekalyan.bih.nic.in",
+      "helpline": "0612-2230059",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-tn-001",
+      "name": "Kalaignar Magalir Urimai Thittam",
+      "name_hi": "कलैग्नर मगलिर उरिमाई थिट्टम",
+      "ministry": "Government of Tamil Nadu",
+      "type": "state",
+      "category": "women",
+      "description": "Basic income scheme for women heads of eligible households.",
+      "description_hi": "पात्र परिवारों की महिला मुखियाओं के लिए बुनियादी आय योजना।",
+      "benefits": "₹1,000 per month transferred directly to the bank account.",
+      "eligibility": {
+        "min_age": 21,
+        "max_age": 100,
+        "gender": "female",
+        "income_limit": 250000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Tamil Nadu"
+        ],
+        "land_ownership": false,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Ration Card",
+        "Aadhaar Card",
+        "Bank Account"
+      ],
+      "application_process": "Applications collected via camps at Ration Shops.",
+      "official_url": "https://kmut.tn.gov.in",
+      "helpline": "1100",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-ap-001",
+      "name": "YSR Rythu Bharosa",
+      "name_hi": "वाईएसआर रायथु भरोसा",
+      "ministry": "Agriculture Department, Andhra Pradesh",
+      "type": "state",
+      "category": "agriculture",
+      "description": "Financial assistance to farmers, including tenant farmers, to meet crop expenses.",
+      "description_hi": "फसल के खर्चों को पूरा करने के लिए किसानों, जिनमें किरायेदार किसान भी शामिल हैं, को वित्तीय सहायता।",
+      "benefits": "₹13,500 per farmer family per year (includes PM-KISAN component).",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Andhra Pradesh"
+        ],
+        "land_ownership": true,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Pattadar Passbook",
+        "Bank Account Details"
+      ],
+      "application_process": "Village secretariats identify and register eligible farmers.",
+      "official_url": "https://ysrrythubharosa.ap.gov.in",
+      "helpline": "1902",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-kl-001",
+      "name": "LIFE Mission",
+      "name_hi": "लाइफ मिशन",
+      "ministry": "Local Self Government Department, Kerala",
+      "type": "state",
+      "category": "housing",
+      "description": "Livelihood Inclusion and Financial Empowerment scheme providing houses to landless and homeless.",
+      "description_hi": "आजीविका समावेशन और वित्तीय सशक्तिकरण योजना जो भूमिहीनों और बेघरों को घर प्रदान करती है।",
+      "benefits": "Financial aid up to ₹4 Lakhs for constructing a house.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": 300000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Kerala"
+        ],
+        "land_ownership": false,
+        "bpl": true,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Ration Card",
+        "Aadhaar",
+        "Income Certificate"
+      ],
+      "application_process": "Apply via local Panchayat/Municipality when phases are announced.",
+      "official_url": "https://life.kerala.gov.in",
+      "helpline": "1800-425-1076",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-pb-001",
+      "name": "Aashirwad Scheme",
+      "name_hi": "आशीर्वाद योजना",
+      "ministry": "Social Justice, Empowerment and Minorities, Punjab",
+      "type": "state",
+      "category": "women",
+      "description": "Financial assistance for the marriage of girls from SC/BC/EWS families.",
+      "description_hi": "SC/BC/EWS परिवारों की लड़कियों की शादी के लिए वित्तीय सहायता।",
+      "benefits": "₹51,000 provided for marriage expenses.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 35,
+        "gender": "female",
+        "income_limit": 32790,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "sc",
+          "obc",
+          "general"
+        ],
+        "states": [
+          "Punjab"
+        ],
+        "land_ownership": null,
+        "bpl": true,
+        "disability": null,
+        "marital_status": [
+          "single"
+        ]
+      },
+      "documents_required": [
+        "Age Proof",
+        "Aadhaar",
+        "Income Certificate",
+        "Caste Certificate"
+      ],
+      "application_process": "Apply via Ashirwad Portal before or up to 30 days after the marriage.",
+      "official_url": "https://ashirwad.punjab.gov.in",
+      "helpline": "0172-2608746",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-hr-001",
+      "name": "Mukhyamantri Antyodaya Parivar Utthan Yojana",
+      "name_hi": "मुख्यमंत्री अंत्योदय परिवार उत्थान योजना",
+      "ministry": "Government of Haryana",
+      "type": "state",
+      "category": "employment",
+      "description": "Aims to uplift the poorest families by providing skill development, wage employment, and self-employment opportunities.",
+      "description_hi": "कौशल विकास, मजदूरी रोजगार और स्वरोजगार के अवसर प्रदान करके सबसे गरीब परिवारों का उत्थान करना।",
+      "benefits": "Skill training and subsidized loans to bring family income above ₹1 Lakh/year.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 60,
+        "gender": "all",
+        "income_limit": 100000,
+        "occupation": [
+          "unemployed",
+          "other"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Haryana"
+        ],
+        "land_ownership": null,
+        "bpl": true,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Parivar Pehchan Patra (PPP)",
+        "Aadhaar"
+      ],
+      "application_process": "Identified automatically via the PPP database. Beneficiaries are called to Melas.",
+      "official_url": "https://meraparivar.haryana.gov.in",
+      "helpline": "1800-2000-023",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-ts-001",
+      "name": "Rythu Bandhu Scheme",
+      "name_hi": "रायथु बंधु योजना",
+      "ministry": "Agriculture Department, Telangana",
+      "type": "state",
+      "category": "agriculture",
+      "description": "Agriculture Investment Support Scheme to provide initial investment support to agriculture and horticulture crops.",
+      "description_hi": "कृषि और बागवानी फसलों को प्रारंभिक निवेश सहायता प्रदान करने के लिए कृषि निवेश सहायता योजना।",
+      "benefits": "₹5,000 per acre per season to support farm investment.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Telangana"
+        ],
+        "land_ownership": true,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Pattadar Passbook",
+        "Aadhaar",
+        "Bank Account Details"
+      ],
+      "application_process": "Apply via Agriculture Extension Officers.",
+      "official_url": "http://rythubandhu.telangana.gov.in",
+      "helpline": "1800-2000-111",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-cg-001",
+      "name": "Rajiv Gandhi Kisan Nyay Yojana",
+      "name_hi": "राजीव गांधी किसान न्याय योजना",
+      "ministry": "Agriculture Department, Chhattisgarh",
+      "type": "state",
+      "category": "agriculture",
+      "description": "Income support scheme for farmers to encourage crop production.",
+      "description_hi": "फसल उत्पादन को प्रोत्साहित करने के लिए किसानों के लिए आय सहायता योजना।",
+      "benefits": "Up to ₹10,000 per acre input assistance provided for registered crops.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Chhattisgarh"
+        ],
+        "land_ownership": true,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "B-1 / Khasra",
+        "Bank Passbook"
+      ],
+      "application_process": "Register via RAEOs (Rural Agriculture Extension Officers).",
+      "official_url": "https://agriportal.cg.nic.in",
+      "helpline": "1100",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-jh-001",
+      "name": "Mukhyamantri Maiyan Samman Yojana",
+      "name_hi": "मुख्यमंत्री मईयां सम्मान योजना",
+      "ministry": "Government of Jharkhand",
+      "type": "state",
+      "category": "women",
+      "description": "Financial scheme aimed at empowering adult women in the state.",
+      "description_hi": "राज्य में वयस्क महिलाओं को सशक्त बनाने के उद्देश्य से वित्तीय योजना।",
+      "benefits": "Direct cash transfer of ₹1,000 per month.",
+      "eligibility": {
+        "min_age": 21,
+        "max_age": 50,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Jharkhand"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Bank Account",
+        "Voter ID"
+      ],
+      "application_process": "Register through designated online portals and camps.",
+      "official_url": "https://jharkhand.gov.in",
+      "helpline": "104",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-hp-001",
+      "name": "Indira Gandhi Pyari Behna Samman Nidhi Yojana",
+      "name_hi": "इंदिरा गांधी प्यारी बहना सम्मान निधि योजना",
+      "ministry": "Government of Himachal Pradesh",
+      "type": "state",
+      "category": "women",
+      "description": "Guaranteed income scheme for the women of Himachal Pradesh.",
+      "description_hi": "हिमाचल प्रदेश की महिलाओं के लिए गारंटीकृत आय योजना।",
+      "benefits": "₹1,500 monthly financial assistance.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 60,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all",
+          "homemaker",
+          "unemployed"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Himachal Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Bonafide Himachali Certificate",
+        "Bank details"
+      ],
+      "application_process": "Submit application forms at the tehsil welfare office.",
+      "official_url": "https://himachal.nic.in",
+      "helpline": "1100",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-uk-001",
+      "name": "Nanda Gaura Yojana",
+      "name_hi": "नंदा गौरा योजना",
+      "ministry": "Women Empowerment and Child Development, Uttarakhand",
+      "type": "state",
+      "category": "education",
+      "description": "Scheme to improve the gender ratio and promote girl child education.",
+      "description_hi": "लिंगानुपात में सुधार और बालिका शिक्षा को बढ़ावा देने की योजना।",
+      "benefits": "₹11,000 on birth and ₹51,000 upon passing class 12th.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 20,
+        "gender": "female",
+        "income_limit": 72000,
+        "occupation": [
+          "all",
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Uttarakhand"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Birth Certificate",
+        "Income Certificate",
+        "Aadhaar"
+      ],
+      "application_process": "Apply via Anganwadi centers or WECD portal.",
+      "official_url": "https://wecd.uk.gov.in",
+      "helpline": "104",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-ar-001",
+      "name": "Deen Dayal Upadhyaya Bunkar Yojana",
+      "name_hi": "दीन दयाल उपाध्याय बुनकर योजना",
+      "ministry": "Department of Textile and Handicrafts, Arunachal Pradesh",
+      "type": "state",
+      "category": "employment",
+      "description": "Scheme to encourage women weavers and provide them with working capital.",
+      "description_hi": "महिला बुनकरों को प्रोत्साहित करने और उन्हें कार्यशील पूंजी प्रदान करने की योजना।",
+      "benefits": "7% interest subvention on short term credit / working capital loan.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "other"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Arunachal Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Weaver ID Card",
+        "Bank Account Details"
+      ],
+      "application_process": "Apply through the Circle Officer or local Textile Department office.",
+      "official_url": "https://arunachalpradesh.gov.in",
+      "helpline": "1800-345-3644",
+      "last_updated": "2024-12-01"
+    },
+    {
+      "id": "state-ga-001",
+      "name": "Griha Aadhar Scheme",
+      "name_hi": "गृह आधार योजना",
+      "ministry": "Women and Child Development, Goa",
+      "type": "state",
+      "category": "women",
+      "description": "Financial assistance to address the problem of inflation for housewives.",
+      "description_hi": "गृहिणियों के लिए मुद्रास्फीति की समस्या के समाधान हेतु वित्तीय सहायता।",
+      "benefits": "₹1,500 per month provided directly to the bank account of the housewife.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "female",
+        "income_limit": 300000,
+        "occupation": [
+          "homemaker"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Goa"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": [
+          "married",
+          "widowed",
+          "divorced"
+        ]
+      },
+      "documents_required": [
+        "Marriage Certificate",
+        "Aadhaar",
+        "Income Certificate"
+      ],
+      "application_process": "Submit application to the Directorate of Women & Child Development.",
+      "official_url": "https://dwcd.goa.gov.in",
+      "helpline": "0832-2242584",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-mn-001",
+      "name": "Chief Minister-gi Hakshelgi Tengbang (CMHT)",
+      "name_hi": "मुख्यमंत्री-जी हकशेलगी तेंगबांग (CMHT)",
+      "ministry": "Health Department, Manipur",
+      "type": "state",
+      "category": "healthcare",
+      "description": "Health assurance scheme for the poor and vulnerable families in Manipur.",
+      "description_hi": "मणिपुर में गरीब और कमजोर परिवारों के लिए स्वास्थ्य आश्वासन योजना।",
+      "benefits": "Cashless treatment up to ₹2 Lakhs per family per year.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Manipur"
+        ],
+        "land_ownership": null,
+        "bpl": true,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "AAY/BPL Ration Card"
+      ],
+      "application_process": "Enrollment through designated CMHT kiosks at district hospitals.",
+      "official_url": "https://cmhtmanipur.gov.in",
+      "helpline": "1800-103-2015",
+      "last_updated": "2024-11-20"
+    },
+    {
+      "id": "state-mz-001",
+      "name": "Socio-Economic Development Policy (SEDP)",
+      "name_hi": "सामाजिक-आर्थिक विकास नीति (SEDP)",
+      "ministry": "Planning and Programme Implementation, Mizoram",
+      "type": "state",
+      "category": "agriculture",
+      "description": "Flagship program to accelerate economic growth through agriculture and allied sectors.",
+      "description_hi": "कृषि और संबद्ध क्षेत्रों के माध्यम से आर्थिक विकास को गति देने का प्रमुख कार्यक्रम।",
+      "benefits": "Financial assistance of ₹50,000 to family-oriented trades/farming.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer",
+          "entrepreneur"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Mizoram"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Voter ID",
+        "Trade/Farming Plan"
+      ],
+      "application_process": "Submit project plans to respective line departments (Agriculture/Horticulture).",
+      "official_url": "https://planning.mizoram.gov.in",
+      "helpline": "0389-2334000",
+      "last_updated": "2025-01-10"
+    },
+    {
+      "id": "state-nl-001",
+      "name": "Chief Minister's Micro Finance Initiative",
+      "name_hi": "मुख्यमंत्री सूक्ष्म वित्त पहल",
+      "ministry": "Finance Department, Nagaland",
+      "type": "state",
+      "category": "employment",
+      "description": "Scheme to promote entrepreneurship and farming by easing access to credit.",
+      "description_hi": "ऋण तक आसान पहुंच द्वारा उद्यमिता और खेती को बढ़ावा देने की योजना।",
+      "benefits": "Subsidy up to 30% on project cost (max ₹5 Lakhs) for micro-enterprises.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 60,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "farmer",
+          "entrepreneur",
+          "unemployed"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Nagaland"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Indigenous Inhabitant Certificate",
+        "Project Report"
+      ],
+      "application_process": "Apply via District Level Implementation Committee.",
+      "official_url": "https://cmmfi.nagaland.gov.in",
+      "helpline": "1800-345-3644",
+      "last_updated": "2024-12-05"
+    },
+    {
+      "id": "state-sk-001",
+      "name": "Sikkim Aama Yojana",
+      "name_hi": "सिक्किम आमा योजना",
+      "ministry": "Women and Child Development, Sikkim",
+      "type": "state",
+      "category": "women",
+      "description": "Financial assistance scheme to instil a habit of saving among non-working mothers.",
+      "description_hi": "कामकाजी नहीं होने वाली माताओं में बचत की आदत डालने के लिए वित्तीय सहायता योजना।",
+      "benefits": "₹20,000 deposited annually into the bank accounts of eligible mothers.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 65,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "homemaker",
+          "unemployed"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Sikkim"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Sikkim Subject Certificate / COI",
+        "Voter ID"
+      ],
+      "application_process": "Forms filled and verified via Gram Panchayats.",
+      "official_url": "https://sikkim.gov.in",
+      "helpline": "03592-202200",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "ut-an-001",
+      "name": "Andaman & Nicobar Old Age Pension Scheme",
+      "name_hi": "अंडमान और निकोबार वृद्धावस्था पेंशन योजना",
+      "ministry": "Social Welfare, Andaman and Nicobar Islands",
+      "type": "state",
+      "category": "pension",
+      "description": "Pension scheme for senior citizens of the UT.",
+      "description_hi": "केंद्र शासित प्रदेश के वरिष्ठ नागरिकों के लिए पेंशन योजना।",
+      "benefits": "₹2,500 monthly pension for destitute senior citizens.",
+      "eligibility": {
+        "min_age": 60,
+        "max_age": 120,
+        "gender": "all",
+        "income_limit": 48000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Andaman and Nicobar Islands"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Age Proof",
+        "Islander Identity Card"
+      ],
+      "application_process": "Apply via Tehsil office or online portal.",
+      "official_url": "https://andaman.gov.in",
+      "helpline": "1070",
+      "last_updated": "2024-11-01"
+    },
+    {
+      "id": "ut-ch-001",
+      "name": "Chandigarh Apni Beti Apna Mian",
+      "name_hi": "चंडीगढ़ अपनी बेटी अपना मान",
+      "ministry": "Social Welfare, Chandigarh",
+      "type": "state",
+      "category": "education",
+      "description": "Scheme to elevate the status of the girl child in the society.",
+      "description_hi": "समाज में बालिकाओं का स्तर ऊंचा उठाने की योजना।",
+      "benefits": "Financial grant at birth and scholarships during schooling.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 18,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Chandigarh"
+        ],
+        "land_ownership": null,
+        "bpl": true,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Birth Certificate",
+        "BPL Card",
+        "Aadhaar"
+      ],
+      "application_process": "Submit forms at the Anganwadi centers.",
+      "official_url": "https://chandigarh.gov.in",
+      "helpline": "181",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "ut-dd-001",
+      "name": "Saraswati Vidya Yojana",
+      "name_hi": "सरस्वती विद्या योजना",
+      "ministry": "Education Department, Dadra and Nagar Haveli and Daman and Diu",
+      "type": "state",
+      "category": "education",
+      "description": "Scheme to promote female education.",
+      "description_hi": "महिला शिक्षा को बढ़ावा देने की योजना।",
+      "benefits": "Free bicycles for girl students of Class 8 and above.",
+      "eligibility": {
+        "min_age": 13,
+        "max_age": 18,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Dadra and Nagar Haveli and Daman and Diu"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "School ID",
+        "Aadhaar"
+      ],
+      "application_process": "Identified automatically by school authorities.",
+      "official_url": "https://daman.nic.in",
+      "helpline": "104",
+      "last_updated": "2024-10-01"
+    },
+    {
+      "id": "ut-jk-001",
+      "name": "State Marriage Assistance Scheme (SMAS)",
+      "name_hi": "राज्य विवाह सहायता योजना",
+      "ministry": "Social Welfare, Jammu and Kashmir",
+      "type": "state",
+      "category": "women",
+      "description": "Financial assistance for poor girls of marriageable age.",
+      "description_hi": "विवाह योग्य आयु की गरीब लड़कियों के लिए वित्तीय सहायता।",
+      "benefits": "₹50,000 cash assistance provided prior to marriage.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 40,
+        "gender": "female",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Jammu and Kashmir"
+        ],
+        "land_ownership": null,
+        "bpl": true,
+        "disability": null,
+        "marital_status": [
+          "single"
+        ]
+      },
+      "documents_required": [
+        "Aadhaar",
+        "AAY/PHH Ration Card",
+        "Unmarried Certificate"
+      ],
+      "application_process": "Apply via Social Welfare Officer online or offline.",
+      "official_url": "https://jksocialwelfare.nic.in",
+      "helpline": "1800-180-7042",
+      "last_updated": "2025-01-10"
+    },
+    {
+      "id": "ut-la-001",
+      "name": "Rewa Scheme",
+      "name_hi": "रीवा योजना",
+      "ministry": "Higher Education, Ladakh",
+      "type": "state",
+      "category": "education",
+      "description": "Coaching assistance scheme for Ladakhi students preparing for national exams.",
+      "description_hi": "राष्ट्रीय परीक्षाओं की तैयारी करने वाले लद्दाखी छात्रों के लिए कोचिंग सहायता योजना।",
+      "benefits": "Up to ₹1 Lakh reimbursement for coaching fees for NEET, JEE, NDA, UPSC.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 30,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Ladakh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Resident Certificate",
+        "Aadhaar",
+        "Coaching Fee Receipt"
+      ],
+      "application_process": "Apply online at ladakh.gov.in portal.",
+      "official_url": "https://ladakh.gov.in",
+      "helpline": "104",
+      "last_updated": "2024-12-01"
+    },
+    {
+      "id": "ut-ld-001",
+      "name": "Lakshadweep Unemployment Allowance",
+      "name_hi": "लक्षद्वीप बेरोजगारी भत्ता",
+      "ministry": "Labour Department, Lakshadweep",
+      "type": "state",
+      "category": "employment",
+      "description": "Financial assistance to educated unemployed youth.",
+      "description_hi": "शिक्षित बेरोजगार युवाओं को वित्तीय सहायता।",
+      "benefits": "₹2,000 per month for registered unemployed graduates/postgraduates.",
+      "eligibility": {
+        "min_age": 21,
+        "max_age": 35,
+        "gender": "all",
+        "income_limit": 100000,
+        "occupation": [
+          "unemployed"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Lakshadweep"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Employment Exchange Registration",
+        "Degree Certificate",
+        "Aadhaar"
+      ],
+      "application_process": "Apply via District Employment Exchange.",
+      "official_url": "https://lakshadweep.gov.in",
+      "helpline": "104",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "ut-py-001",
+      "name": "Perunthalaivar Kamarajar Financial Assistance",
+      "name_hi": "पेरुंथलैवर कामराजर वित्तीय सहायता",
+      "ministry": "Higher Education, Puducherry",
+      "type": "state",
+      "category": "education",
+      "description": "Fee reimbursement scheme for medical/engineering students.",
+      "description_hi": "मेडिकल/इंजीनियरिंग छात्रों के लिए शुल्क प्रतिपूर्ति योजना।",
+      "benefits": "Full tuition fee reimbursement for CENTAC sponsored students.",
+      "eligibility": {
+        "min_age": 17,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Puducherry"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "CENTAC Allotment Order",
+        "Aadhaar",
+        "Residence Proof"
+      ],
+      "application_process": "Submitted via the college administration to the Directorate of Higher Education.",
+      "official_url": "https://dhte.py.gov.in",
+      "helpline": "0413-2236544",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-od-002",
+      "name": "Biju Yuva Sashaktikaran Yojana (Free Laptop Scheme)",
+      "name_hi": "बीजू युवा सशक्तिकरण योजना",
+      "ministry": "Higher Education Department, Odisha",
+      "type": "state",
+      "category": "education",
+      "description": "A state initiative providing free laptops to meritorious students passing class 12th.",
+      "description_hi": "कक्षा 12वीं पास करने वाले मेधावी छात्रों को मुफ्त लैपटॉप प्रदान करने वाली राज्य की पहल।",
+      "benefits": "Free laptop or ₹30,000 cash equivalent via Direct Benefit Transfer.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Odisha"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Class 12 Marksheet",
+        "Residence Certificate",
+        "Bank Details"
+      ],
+      "application_process": "Eligible students are shortlisted by the State Council of Higher Education and apply via the portal.",
+      "official_url": "https://dhe.odisha.gov.in",
+      "helpline": "155335",
+      "last_updated": "2025-01-10"
+    },
+    {
+      "id": "state-dl-002",
+      "name": "Delhi Higher Education and Skill Development Guarantee Scheme",
+      "name_hi": "दिल्ली उच्च शिक्षा और कौशल विकास गारंटी योजना",
+      "ministry": "Higher Education Department, Delhi",
+      "type": "state",
+      "category": "education",
+      "description": "Provides guarantee for education loans to students who wish to pursue higher education in Delhi.",
+      "description_hi": "दिल्ली में उच्च शिक्षा प्राप्त करने के इच्छुक छात्रों को शिक्षा ऋण के लिए गारंटी प्रदान करता है।",
+      "benefits": "State government acts as guarantor for education loans up to ₹10 Lakhs without collateral.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 35,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Delhi"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Admission Letter",
+        "Delhi Domicile/10th Marksheet from Delhi",
+        "Bank Details"
+      ],
+      "application_process": "Apply via the Delhi Government e-district portal with admission proof.",
+      "official_url": "https://edistrict.delhigovt.nic.in",
+      "helpline": "1031",
+      "last_updated": "2024-12-15"
+    },
+    {
+      "id": "state-mh-002",
+      "name": "Chief Minister Employment Generation Programme (CMEGP)",
+      "name_hi": "मुख्यमंत्री रोजगार निर्मिती कार्यक्रम (CMEGP)",
+      "ministry": "Industries Department, Maharashtra",
+      "type": "state",
+      "category": "employment",
+      "description": "Financial assistance to micro and small enterprises to generate employment opportunities.",
+      "description_hi": "रोजगार के अवसर पैदा करने के लिए सूक्ष्म और लघु उद्यमों को वित्तीय सहायता।",
+      "benefits": "Subsidy up to 35% on project cost up to ₹50 Lakhs for setting up new businesses.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 45,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "unemployed",
+          "entrepreneur"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Maharashtra"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Project Report",
+        "Education Certificate",
+        "Domicile"
+      ],
+      "application_process": "Apply online through the MahaCMEGP portal and submit the business plan.",
+      "official_url": "https://maha-cmegp.gov.in",
+      "helpline": "1800-222-225",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-up-002",
+      "name": "Mukhyamantri Yuva Swarozgar Yojana",
+      "name_hi": "मुख्यमंत्री युवा स्वरोजगार योजना",
+      "ministry": "Department of MSME, Uttar Pradesh",
+      "type": "state",
+      "category": "employment",
+      "description": "Scheme to encourage educated unemployed youth to set up their own enterprises.",
+      "description_hi": "शिक्षित बेरोजगार युवाओं को अपना उद्यम स्थापित करने के लिए प्रोत्साहित करने की योजना।",
+      "benefits": "Margin money subsidy of 25% on loans up to ₹25 Lakhs for industry sector.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 40,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "unemployed",
+          "entrepreneur"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Uttar Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "High School Certificate",
+        "Domicile Certificate",
+        "Project Report"
+      ],
+      "application_process": "Submit application online on the UP MSME portal.",
+      "official_url": "https://diupmsme.upsdc.gov.in",
+      "helpline": "1800-1800-888",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-ka-002",
+      "name": "Yuva Nidhi Scheme",
+      "name_hi": "युवा निधि योजना",
+      "ministry": "Skill Development, Entrepreneurship and Livelihood, Karnataka",
+      "type": "state",
+      "category": "employment",
+      "description": "Unemployment allowance for recent graduates and diploma holders in Karnataka.",
+      "description_hi": "कर्नाटक में हाल ही में स्नातक और डिप्लोमा धारकों के लिए बेरोजगारी भत्ता।",
+      "benefits": "₹3,000/month for degree holders and ₹1,500/month for diploma holders for up to 2 years.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 30,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "unemployed"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Karnataka"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Degree/Diploma Certificate",
+        "Karnataka Domicile"
+      ],
+      "application_process": "Register on the Seva Sindhu portal of the Karnataka Government.",
+      "official_url": "https://sevasindhugs.karnataka.gov.in",
+      "helpline": "1902",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-rj-002",
+      "name": "Mukhyamantri Chiranjeevi Swasthya Bima Yojana",
+      "name_hi": "मुख्यमंत्री चिरंजीवी स्वास्थ्य बीमा योजना",
+      "ministry": "Medical and Health Department, Rajasthan",
+      "type": "state",
+      "category": "healthcare",
+      "description": "Universal health insurance scheme providing free medical treatment to families in Rajasthan.",
+      "description_hi": "राजस्थान में परिवारों को मुफ्त चिकित्सा उपचार प्रदान करने वाली सार्वभौमिक स्वास्थ्य बीमा योजना।",
+      "benefits": "Free cashless treatment up to ₹25 Lakhs per family per year in empanelled hospitals.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Rajasthan"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Jan Aadhaar Card",
+        "Aadhaar Card"
+      ],
+      "application_process": "Automatic registration for NFSA/SECC families; others can register via e-Mitra by paying ₹850.",
+      "official_url": "https://chiranjeevi.rajasthan.gov.in",
+      "helpline": "181",
+      "last_updated": "2024-12-01"
+    },
+    {
+      "id": "state-wb-002",
+      "name": "Yuvashree Scheme",
+      "name_hi": "युवाश्री योजना",
+      "ministry": "Department of Labour, West Bengal",
+      "type": "state",
+      "category": "employment",
+      "description": "Financial assistance to unemployed youth to increase their employability.",
+      "description_hi": "बेरोजगार युवाओं को उनकी रोजगार क्षमता बढ़ाने के लिए वित्तीय सहायता।",
+      "benefits": "Unemployment assistance of ₹1,500 per month.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 45,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "unemployed",
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "West Bengal"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Employment Bank Registration",
+        "Education Certificate (8th pass min)"
+      ],
+      "application_process": "Enroll in the Employment Bank portal and submit the application.",
+      "official_url": "https://employmentbankwb.gov.in",
+      "helpline": "033-22376300",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-mp-002",
+      "name": "Mukhyamantri Seekho Kamao Yojana",
+      "name_hi": "मुख्यमंत्री सीखो कमाओ योजना",
+      "ministry": "Skill Development and Employment, Madhya Pradesh",
+      "type": "state",
+      "category": "education",
+      "description": "Skill training with a monthly stipend for the youth of Madhya Pradesh.",
+      "description_hi": "मध्य प्रदेश के युवाओं के लिए मासिक वजीफे के साथ कौशल प्रशिक्षण।",
+      "benefits": "Monthly stipend ranging from ₹8,000 to ₹10,000 during the training period.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 29,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "student",
+          "unemployed"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Madhya Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Samagra ID",
+        "Aadhaar",
+        "Bank Account linked with DBT",
+        "Education Proof (12th/ITI/Diploma/Degree)"
+      ],
+      "application_process": "Register as a candidate on the MMSKY portal.",
+      "official_url": "https://mmsky.mp.gov.in",
+      "helpline": "1800-599-0019",
+      "last_updated": "2025-01-05"
+    },
+    {
+      "id": "state-as-002",
+      "name": "Swami Vivekananda Assam Youth Empowerment (SVAYEM) Yojana",
+      "name_hi": "स्वामी विवेकानंद असम युवा अधिकारिता (SVAYEM) योजना",
+      "ministry": "Finance Department, Assam",
+      "type": "state",
+      "category": "employment",
+      "description": "Financial assistance to generate employment opportunities for youth in the state.",
+      "description_hi": "राज्य में युवाओं के लिए रोजगार के अवसर पैदा करने के लिए वित्तीय सहायता।",
+      "benefits": "Seed capital of ₹50,000 to selected youth/groups to start businesses.",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 40,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "unemployed",
+          "entrepreneur"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Assam"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Skill/Education Certificate",
+        "Business Plan",
+        "Assam Domicile"
+      ],
+      "application_process": "Apply through designated state portal when applications are announced.",
+      "official_url": "https://finance.assam.gov.in",
+      "helpline": "1800-345-3987",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "state-bh-002",
+      "name": "Mukhyamantri Udyami Yojana",
+      "name_hi": "मुख्यमंत्री उद्यमी योजना",
+      "ministry": "Industries Department, Bihar",
+      "type": "state",
+      "category": "employment",
+      "description": "Scheme to promote entrepreneurship among youth, SC/ST, and women in Bihar.",
+      "description_hi": "बिहार में युवाओं, एससी/एसटी और महिलाओं के बीच उद्यमशीलता को बढ़ावा देने की योजना।",
+      "benefits": "Financial assistance up to ₹10 Lakhs (₹5 Lakhs grant + ₹5 Lakhs interest-free loan).",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": 50,
+        "gender": "all",
+        "income_limit": null,
+        "occupation": [
+          "unemployed",
+          "entrepreneur",
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Bihar"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Caste Certificate (if applicable)",
+        "Education Certificate (10+2/ITI)",
+        "Current Account Details"
+      ],
+      "application_process": "Register and submit a detailed project report on the Udyami portal.",
+      "official_url": "https://udyami.bihar.gov.in",
+      "helpline": "1800-3456-214",
+      "last_updated": "2025-02-01"
+    },
+    {
+      "id": "state-gj-002",
+      "name": "Mukhyamantri Amrutam (MA) Yojana",
+      "name_hi": "मुख्यमंत्री अमृतम (MA) योजना",
+      "ministry": "Health and Family Welfare, Gujarat",
+      "type": "state",
+      "category": "healthcare",
+      "description": "Health assurance scheme for BPL and lower-middle-class families.",
+      "description_hi": "बीपीएल और निम्न-मध्यम वर्ग के परिवारों के लिए स्वास्थ्य आश्वासन योजना।",
+      "benefits": "Cashless medical and surgical care up to ₹5 Lakhs per family per year.",
+      "eligibility": {
+        "min_age": 0,
+        "max_age": 100,
+        "gender": "all",
+        "income_limit": 400000,
+        "occupation": [
+          "all"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Gujarat"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Income Certificate / BPL Card",
+        "Ration Card"
+      ],
+      "application_process": "Enrollment at designated civic centres or network hospitals to generate the MA Card.",
+      "official_url": "https://magujarat.com",
+      "helpline": "1800-233-1022",
+      "last_updated": "2024-12-01"
+    },
+    {
+      "id": "auto-andhrapradesh-a6a803",
+      "name": "Andhra Pradesh State Merit Scholarship",
+      "name_hi": "Andhra Pradesh State Merit Scholarship",
+      "ministry": "Government of Andhra Pradesh",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Andhra Pradesh.",
+      "description_hi": "Financial support for meritorious students of Andhra Pradesh.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Andhra Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Andhra Pradesh Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Andhra Pradesh government portal.",
+      "official_url": "https://andhrapradesh.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-arunachalpradesh-592a73",
+      "name": "Arunachal Pradesh State Merit Scholarship",
+      "name_hi": "Arunachal Pradesh State Merit Scholarship",
+      "ministry": "Government of Arunachal Pradesh",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Arunachal Pradesh.",
+      "description_hi": "Financial support for meritorious students of Arunachal Pradesh.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Arunachal Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Arunachal Pradesh Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Arunachal Pradesh government portal.",
+      "official_url": "https://arunachalpradesh.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-chhattisgarh-7c03c0",
+      "name": "Chhattisgarh State Merit Scholarship",
+      "name_hi": "Chhattisgarh State Merit Scholarship",
+      "ministry": "Government of Chhattisgarh",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Chhattisgarh.",
+      "description_hi": "Financial support for meritorious students of Chhattisgarh.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Chhattisgarh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Chhattisgarh Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Chhattisgarh government portal.",
+      "official_url": "https://chhattisgarh.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-goa-7f80c4",
+      "name": "Goa State Merit Scholarship",
+      "name_hi": "Goa State Merit Scholarship",
+      "ministry": "Government of Goa",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Goa.",
+      "description_hi": "Financial support for meritorious students of Goa.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Goa"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Goa Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Goa government portal.",
+      "official_url": "https://goa.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-haryana-340a34",
+      "name": "Haryana State Merit Scholarship",
+      "name_hi": "Haryana State Merit Scholarship",
+      "ministry": "Government of Haryana",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Haryana.",
+      "description_hi": "Financial support for meritorious students of Haryana.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Haryana"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Haryana Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Haryana government portal.",
+      "official_url": "https://haryana.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-himachalpradesh-39ef02",
+      "name": "Himachal Pradesh State Merit Scholarship",
+      "name_hi": "Himachal Pradesh State Merit Scholarship",
+      "ministry": "Government of Himachal Pradesh",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Himachal Pradesh.",
+      "description_hi": "Financial support for meritorious students of Himachal Pradesh.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Himachal Pradesh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Himachal Pradesh Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Himachal Pradesh government portal.",
+      "official_url": "https://himachalpradesh.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-jharkhand-08c6f9",
+      "name": "Jharkhand State Merit Scholarship",
+      "name_hi": "Jharkhand State Merit Scholarship",
+      "ministry": "Government of Jharkhand",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Jharkhand.",
+      "description_hi": "Financial support for meritorious students of Jharkhand.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Jharkhand"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Jharkhand Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Jharkhand government portal.",
+      "official_url": "https://jharkhand.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-kerala-f7a33e",
+      "name": "Kerala State Merit Scholarship",
+      "name_hi": "Kerala State Merit Scholarship",
+      "ministry": "Government of Kerala",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Kerala.",
+      "description_hi": "Financial support for meritorious students of Kerala.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Kerala"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Kerala Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Kerala government portal.",
+      "official_url": "https://kerala.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-manipur-aade3a",
+      "name": "Manipur State Merit Scholarship",
+      "name_hi": "Manipur State Merit Scholarship",
+      "ministry": "Government of Manipur",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Manipur.",
+      "description_hi": "Financial support for meritorious students of Manipur.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Manipur"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Manipur Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Manipur government portal.",
+      "official_url": "https://manipur.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-meghalaya-8f2851",
+      "name": "Meghalaya State Merit Scholarship",
+      "name_hi": "Meghalaya State Merit Scholarship",
+      "ministry": "Government of Meghalaya",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Meghalaya.",
+      "description_hi": "Financial support for meritorious students of Meghalaya.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Meghalaya"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Meghalaya Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Meghalaya government portal.",
+      "official_url": "https://meghalaya.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-mizoram-d400f4",
+      "name": "Mizoram State Merit Scholarship",
+      "name_hi": "Mizoram State Merit Scholarship",
+      "ministry": "Government of Mizoram",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Mizoram.",
+      "description_hi": "Financial support for meritorious students of Mizoram.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Mizoram"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Mizoram Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Mizoram government portal.",
+      "official_url": "https://mizoram.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-nagaland-bb6095",
+      "name": "Nagaland State Merit Scholarship",
+      "name_hi": "Nagaland State Merit Scholarship",
+      "ministry": "Government of Nagaland",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Nagaland.",
+      "description_hi": "Financial support for meritorious students of Nagaland.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Nagaland"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Nagaland Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Nagaland government portal.",
+      "official_url": "https://nagaland.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-punjab-ab8f73",
+      "name": "Punjab State Merit Scholarship",
+      "name_hi": "Punjab State Merit Scholarship",
+      "ministry": "Government of Punjab",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Punjab.",
+      "description_hi": "Financial support for meritorious students of Punjab.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Punjab"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Punjab Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Punjab government portal.",
+      "official_url": "https://punjab.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-sikkim-322964",
+      "name": "Sikkim State Merit Scholarship",
+      "name_hi": "Sikkim State Merit Scholarship",
+      "ministry": "Government of Sikkim",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Sikkim.",
+      "description_hi": "Financial support for meritorious students of Sikkim.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Sikkim"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Sikkim Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Sikkim government portal.",
+      "official_url": "https://sikkim.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-tamilnadu-402c08",
+      "name": "Tamil Nadu State Merit Scholarship",
+      "name_hi": "Tamil Nadu State Merit Scholarship",
+      "ministry": "Government of Tamil Nadu",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Tamil Nadu.",
+      "description_hi": "Financial support for meritorious students of Tamil Nadu.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Tamil Nadu"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Tamil Nadu Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Tamil Nadu government portal.",
+      "official_url": "https://tamilnadu.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-telangana-6dfd23",
+      "name": "Telangana State Merit Scholarship",
+      "name_hi": "Telangana State Merit Scholarship",
+      "ministry": "Government of Telangana",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Telangana.",
+      "description_hi": "Financial support for meritorious students of Telangana.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Telangana"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Telangana Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Telangana government portal.",
+      "official_url": "https://telangana.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-tripura-a7e341",
+      "name": "Tripura State Merit Scholarship",
+      "name_hi": "Tripura State Merit Scholarship",
+      "ministry": "Government of Tripura",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Tripura.",
+      "description_hi": "Financial support for meritorious students of Tripura.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Tripura"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Tripura Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Tripura government portal.",
+      "official_url": "https://tripura.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-uttarakhand-f23f69",
+      "name": "Uttarakhand State Merit Scholarship",
+      "name_hi": "Uttarakhand State Merit Scholarship",
+      "ministry": "Government of Uttarakhand",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Uttarakhand.",
+      "description_hi": "Financial support for meritorious students of Uttarakhand.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Uttarakhand"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Uttarakhand Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Uttarakhand government portal.",
+      "official_url": "https://uttarakhand.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-andamanandnicobarislands-001e6e",
+      "name": "Andaman and Nicobar Islands State Merit Scholarship",
+      "name_hi": "Andaman and Nicobar Islands State Merit Scholarship",
+      "ministry": "Government of Andaman and Nicobar Islands",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Andaman and Nicobar Islands.",
+      "description_hi": "Financial support for meritorious students of Andaman and Nicobar Islands.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Andaman and Nicobar Islands"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Andaman and Nicobar Islands Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Andaman and Nicobar Islands government portal.",
+      "official_url": "https://andamanandnicobarislands.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-chandigarh-c11af0",
+      "name": "Chandigarh State Merit Scholarship",
+      "name_hi": "Chandigarh State Merit Scholarship",
+      "ministry": "Government of Chandigarh",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Chandigarh.",
+      "description_hi": "Financial support for meritorious students of Chandigarh.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Chandigarh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Chandigarh Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Chandigarh government portal.",
+      "official_url": "https://chandigarh.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-dadraandnagarhavelianddamananddiu-9d9ff2",
+      "name": "Dadra and Nagar Haveli and Daman and Diu State Merit Scholarship",
+      "name_hi": "Dadra and Nagar Haveli and Daman and Diu State Merit Scholarship",
+      "ministry": "Government of Dadra and Nagar Haveli and Daman and Diu",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Dadra and Nagar Haveli and Daman and Diu.",
+      "description_hi": "Financial support for meritorious students of Dadra and Nagar Haveli and Daman and Diu.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Dadra and Nagar Haveli and Daman and Diu"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Dadra and Nagar Haveli and Daman and Diu Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Dadra and Nagar Haveli and Daman and Diu government portal.",
+      "official_url": "https://dadraandnagarhavelianddamananddiu.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-jammuandkashmir-e18467",
+      "name": "Jammu and Kashmir State Merit Scholarship",
+      "name_hi": "Jammu and Kashmir State Merit Scholarship",
+      "ministry": "Government of Jammu and Kashmir",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Jammu and Kashmir.",
+      "description_hi": "Financial support for meritorious students of Jammu and Kashmir.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Jammu and Kashmir"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Jammu and Kashmir Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Jammu and Kashmir government portal.",
+      "official_url": "https://jammuandkashmir.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-ladakh-8256a0",
+      "name": "Ladakh State Merit Scholarship",
+      "name_hi": "Ladakh State Merit Scholarship",
+      "ministry": "Government of Ladakh",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Ladakh.",
+      "description_hi": "Financial support for meritorious students of Ladakh.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Ladakh"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Ladakh Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Ladakh government portal.",
+      "official_url": "https://ladakh.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-lakshadweep-33d485",
+      "name": "Lakshadweep State Merit Scholarship",
+      "name_hi": "Lakshadweep State Merit Scholarship",
+      "ministry": "Government of Lakshadweep",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Lakshadweep.",
+      "description_hi": "Financial support for meritorious students of Lakshadweep.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Lakshadweep"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Lakshadweep Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Lakshadweep government portal.",
+      "official_url": "https://lakshadweep.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    },
+    {
+      "id": "auto-puducherry-bcce00",
+      "name": "Puducherry State Merit Scholarship",
+      "name_hi": "Puducherry State Merit Scholarship",
+      "ministry": "Government of Puducherry",
+      "type": "state",
+      "category": "education",
+      "description": "Financial support for meritorious students of Puducherry.",
+      "description_hi": "Financial support for meritorious students of Puducherry.",
+      "benefits": "Annual scholarship of ₹10,000 for higher education.",
+      "eligibility": {
+        "min_age": 16,
+        "max_age": 25,
+        "gender": "all",
+        "income_limit": 250000,
+        "occupation": [
+          "student"
+        ],
+        "caste_category": [
+          "all"
+        ],
+        "states": [
+          "Puducherry"
+        ],
+        "land_ownership": null,
+        "bpl": null,
+        "disability": null,
+        "marital_status": null
+      },
+      "documents_required": [
+        "Aadhaar",
+        "Puducherry Domicile Certificate",
+        "Bank Account"
+      ],
+      "application_process": "Apply via the official Puducherry government portal.",
+      "official_url": "https://puducherry.gov.in",
+      "helpline": "1800-111-2222",
+      "last_updated": "2025-01-01"
+    }
+  ]
+}

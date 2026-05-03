@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {"id": "agriculture", "name": "Agriculture & Farming", "name_hi": "कृषि और खेती", "icon": "🌾"},
+    {"id": "housing", "name": "Housing & Shelter", "name_hi": "आवास और आश्रय", "icon": "🏠"},
+    {"id": "health", "name": "Health & Insurance", "name_hi": "स्वास्थ्य और बीमा", "icon": "🏥"},
+    {"id": "education", "name": "Education & Scholarship", "name_hi": "शिक्षा और छात्रवृत्ति", "icon": "📚"},
+    {"id": "employment", "name": "Employment & Skills", "name_hi": "रोजगार और कौशल", "icon": "💼"},
+    {"id": "women", "name": "Women & Child Welfare", "name_hi": "महिला और बाल कल्याण", "icon": "👩"},
+    {"id": "financial", "name": "Financial Inclusion", "name_hi": "वित्तीय समावेशन", "icon": "🏦"},
+    {"id": "social", "name": "Social Security & Pension", "name_hi": "सामाजिक सुरक्षा और पेंशन", "icon": "🛡️"},
+    {"id": "energy", "name": "Energy & Utilities", "name_hi": "ऊर्जा और उपयोगिता", "icon": "⚡"},
+    {"id": "business", "name": "Business & Entrepreneurship", "name_hi": "व्यवसाय और उद्यमिता", "icon": "🚀"},
+    {"id": "food", "name": "Food Security", "name_hi": "खाद्य सुरक्षा", "icon": "🍚"},
+    {"id": "defence", "name": "Defence & Recruitment", "name_hi": "रक्षा और भर्ती", "icon": "🎖️"},
+    {"id": "digital", "name": "Digital Services", "name_hi": "डिजिटल सेवाएं", "icon": "💻"}
+  ]
+}

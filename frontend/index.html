@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SarkariYojana AI - Government Scheme Finder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Devanagari:wght@400;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=3">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <header class="navbar">
+        <a href="#" onclick="window.location.reload(); return false;" class="logo" style="text-decoration: none; cursor: pointer;">
+            <span class="gradient-text" style="font-weight: 800; font-size: 1.6rem; letter-spacing: -0.5px;">SarkariYojana AI</span>
+        </a>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero-section" class="active">
+        <div class="hero-container">
+            <div class="hero-left">
+                <h1 style="font-size: 4.5rem; line-height: 1.1; margin-bottom: 1.5rem; font-weight: 800; letter-spacing: -1.5px;">
+                    Claim Your <br><span class="gradient-text">Government Benefits</span>
+                </h1>
+                <h2 style="font-size: 1.4rem; font-weight: 400; color: var(--text-secondary); margin-bottom: 0.5rem; max-width: 500px;">Discover every state and central welfare scheme you are eligible for.</h2>
+                <h3 style="font-size: 1.1rem; font-weight: 400; margin-bottom: 3rem; color: var(--text-muted);">आपके हक की हर सरकारी योजना खोजें — आपकी भाषा में।</h3>
+                
+                <button id="btn-start" class="btn btn-primary" style="font-size: 1.1rem; padding: 1.2rem 3rem; border-radius: 50px; margin-bottom: 3rem;">Check My Eligibility ➔</button>
+                
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <h4>36</h4>
+                        <p>States & UTs Covered</p>
+                    </div>
+                    <div class="stat-item">
+                        <h4>100%</h4>
+                        <p>AI Powered Match</p>
+                    </div>
+                    <div class="stat-item">
+                        <h4>Free</h4>
+                        <p>For Citizens</p>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-right">
+                <div class="states-grid">
+                    <div class="state-pill">Maharashtra</div>
+                    <div class="state-pill">Uttar Pradesh</div>
+                    <div class="state-pill">Delhi</div>
+                    <div class="state-pill">Karnataka</div>
+                    <div class="state-pill">Gujarat</div>
+                    <div class="state-pill">Tamil Nadu</div>
+                    <div class="state-pill">West Bengal</div>
+                    <div class="state-pill">Rajasthan</div>
+                    <div class="state-pill">Odisha</div>
+                    <div class="state-pill">Kerala</div>
+                    <div class="state-pill">Punjab</div>
+                    <div class="state-pill">Assam</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Profile Form Section -->
+    <section id="profile-section">
+        <div class="form-container glass-panel">
+            <h2 style="margin-bottom: 1rem; text-align: center;">Let's find your schemes</h2>
+            <p id="step-indicator" style="text-align: center; color: var(--text-secondary); margin-bottom: 2rem;">Step 1
+                of 3</p>
+
+            <form id="profile-form">
+                <!-- Step 1 -->
+                <div class="form-step active" id="step-1">
+                    <div class="form-group">
+                        <label>Full Name</label>
+                        <input type="text" id="name" required placeholder="Enter your name">
+                    </div>
+                    <div class="form-group" style="display: flex; gap: 1rem;">
+                        <div style="flex: 1;">
+                            <label>Age</label>
+                            <input type="number" id="age" min="18" max="120" required placeholder="e.g. 35">
+                        </div>
+                        <div style="flex: 1;">
+                            <label>Gender</label>
+                            <select id="gender" required>
+                                <option value="male">Male</option>
+                                <option value="female">Female</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>State</label>
+                        <select id="state" required>
+                            <option value="all">Select State/UT</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                            <option value="Assam">Assam</option>
+                            <option value="Bihar">Bihar</option>
+                            <option value="Chhattisgarh">Chhattisgarh</option>
+                            <option value="Goa">Goa</option>
+                            <option value="Gujarat">Gujarat</option>
+                            <option value="Haryana">Haryana</option>
+                            <option value="Himachal Pradesh">Himachal Pradesh</option>
+                            <option value="Jharkhand">Jharkhand</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Kerala">Kerala</option>
+                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                            <option value="Manipur">Manipur</option>
+                            <option value="Meghalaya">Meghalaya</option>
+                            <option value="Mizoram">Mizoram</option>
+                            <option value="Nagaland">Nagaland</option>
+                            <option value="Odisha">Odisha</option>
+                            <option value="Punjab">Punjab</option>
+                            <option value="Rajasthan">Rajasthan</option>
+                            <option value="Sikkim">Sikkim</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Telangana">Telangana</option>
+                            <option value="Tripura">Tripura</option>
+                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                            <option value="Uttarakhand">Uttarakhand</option>
+                            <option value="West Bengal">West Bengal</option>
+                            <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+                            <option value="Chandigarh">Chandigarh</option>
+                            <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman
+                                and Diu</option>
+                            <option value="Delhi">Delhi</option>
+                            <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+                            <option value="Ladakh">Ladakh</option>
+                            <option value="Lakshadweep">Lakshadweep</option>
+                            <option value="Puducherry">Puducherry</option>
+                        </select>
+                    </div>
+                    <button type="button" id="btn-next-1" class="btn btn-primary" style="width: 100%;">Next</button>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="form-step" id="step-2">
+                    <div class="form-group">
+                        <label>Occupation</label>
+                        <select id="occupation" required>
+                            <option value="other">Select Occupation</option>
+                            <option value="farmer">Farmer</option>
+                            <option value="student">Student</option>
+                            <option value="entrepreneur">Business/Entrepreneur</option>
+                            <option value="salaried">Salaried</option>
+                            <option value="unemployed">Unemployed</option>
+                            <option value="homemaker">Homemaker</option>
+                            <option value="street_vendor">Street Vendor</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Annual Family Income (₹)</label>
+                        <input type="number" id="income" required placeholder="e.g. 150000" min="0">
+                    </div>
+                    <div class="form-group">
+                        <label>Do you belong to Below Poverty Line (BPL)?</label>
+                        <select id="bpl" required>
+                            <option value="false">No</option>
+                            <option value="true">Yes</option>
+                        </select>
+                    </div>
+                    <div style="display: flex; gap: 1rem;">
+                        <button type="button" id="btn-prev-2" class="btn"
+                            style="flex: 1; background: var(--surface);">Back</button>
+                        <button type="button" id="btn-next-2" class="btn btn-primary" style="flex: 2;">Next</button>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="form-step" id="step-3">
+                    <div class="form-group">
+                        <label>Caste Category</label>
+                        <select id="caste" required>
+                            <option value="general">General</option>
+                            <option value="obc">OBC</option>
+                            <option value="sc">SC</option>
+                            <option value="st">ST</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Marital Status</label>
+                        <select id="marital" required>
+                            <option value="single">Single</option>
+                            <option value="married">Married</option>
+                            <option value="widowed">Widowed</option>
+                            <option value="divorced">Divorced</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Preferred Language</label>
+                        <select id="lang" required>
+                            <option value="en">English</option>
+                            <option value="hi">हिंदी (Hindi)</option>
+                        </select>
+                    </div>
+                    <div style="display: flex; gap: 1rem; margin-top: 2rem;">
+                        <button type="button" id="btn-prev-3" class="btn"
+                            style="flex: 1; background: var(--surface);">Back</button>
+                        <button type="button" id="btn-submit" class="btn btn-primary" style="flex: 2;">Find Matching
+                            Schemes</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Dashboard Section -->
+    <section id="dashboard-section">
+        <!-- Sidebar -->
+        <div class="sidebar glass-panel" style="padding: 1.5rem; height: fit-content;">
+            <h3 style="margin-bottom: 1rem;">Your Profile</h3>
+            <div id="profile-summary-details"
+                style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.5rem; line-height: 1.8;">
+                <!-- Filled by JS -->
+            </div>
+            <button id="btn-edit-profile" class="btn" style="width: 100%; background: rgba(255,255,255,0.1);">Edit
+                Profile</button>
+            <hr style="border: 0; border-top: 1px solid var(--glass-border); margin: 1.5rem 0;">
+            <p style="font-size: 0.9rem; margin-bottom: 1rem;">Need help understanding a scheme?</p>
+            <button class="btn btn-primary" style="width: 100%;" onclick="toggleChat(true)">Ask SarkariYojana
+                AI</button>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <h2 id="result-header" style="margin-bottom: 1rem;">Finding schemes...</h2>
+            <div id="schemes-container">
+                <!-- Scheme cards injected here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating Chat Button -->
+    <button id="chat-fab" class="chat-fab">💬</button>
+
+    <!-- Chat Panel -->
+    <div id="chat-panel" class="chat-panel">
+        <div class="chat-header">
+            <h3>Ask SarkariYojana AI</h3>
+            <button id="close-chat"
+                style="background:transparent; border:none; color:white; font-size:1.5rem; cursor:pointer;">×</button>
+        </div>
+        <div id="chat-messages" class="chat-messages">
+            <!-- Messages go here -->
+        </div>
+        <div style="padding: 0 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+            <button class="btn quick-q"
+                style="font-size: 0.75rem; padding: 0.3rem 0.6rem; background: var(--surface); color: var(--primary); border: 1px solid var(--primary-light);">How
+                do I apply?</button>
+            <button class="btn quick-q"
+                style="font-size: 0.75rem; padding: 0.3rem 0.6rem; background: var(--surface); color: var(--primary); border: 1px solid var(--primary-light);">What
+                documents are needed?</button>
+        </div>
+        <div class="chat-input-area">
+            <input type="text" id="chat-input" placeholder="Ask in English or Hindi..."
+                style="margin: 0; background: var(--bg-main);">
+            <button id="btn-send" class="btn btn-primary" style="padding: 0 1rem;">➤</button>
+        </div>
+    </div>
+
+    <script src="js/app.js?v=2"></script>
+    <script src="js/profile.js?v=2"></script>
+    <script src="js/schemes.js?v=2"></script>
+    <script src="js/chat.js?v=2"></script>
+</body>
+
+</html>
