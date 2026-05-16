@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     DEBUG: bool = False
 
     # LLM Configuration
-    GEMINI_API_KEY: str = "AIzaSyB5QdNHTSScHBMgNDz3aU69P5evgskDfJk"
+    GEMINI_API_KEY: str = "YOUR_GEMINI_API_KEY"
     LLM_MODEL: str = "gemini-2.0-flash"
     LLM_TEMPERATURE: float = 0.3
     LLM_MAX_TOKENS: int = 2048
